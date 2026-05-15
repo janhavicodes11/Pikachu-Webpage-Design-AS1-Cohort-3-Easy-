@@ -1,0 +1,198 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'helvetica neue';
+}
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    background:#f1f1f1;
+    padding:25px;
+    position:relative;
+}
+
+
+#div1{
+    height:900px;
+    width:65%;
+    background-color:#FBC50B;
+    border-radius:40px;
+/*margin-right:80%;*/
+position:relative;
+  
+    
+}
+ 
+@font-face {
+    font-family: poppins;
+    src: url(./Poppins-Medium.ttf);
+}
+/*#div2{
+    height:100%;
+    width:30%;
+    background-color: antiquewhite;
+    position:absolute;
+    left:62%;
+    top: 1px;
+    right:50px;
+    border-radius:40px;
+    right:90px;
+}*/
+
+#div2{
+    height:900px;
+    width:38%;
+    background-color:#FCE9B4;
+    position:absolute;
+    top:25px;
+    left:60%;
+    border-radius:40px;
+}
+
+h1{
+  font-size:20px;
+  font-family:poppins;
+  letter-spacing:12px;
+  position:absolute;
+  top:30%;
+ left:60px;
+ font-weight:500px;
+}
+ 
+@font-face {
+    font-family: hihi;
+    src: url(./Montserrat-Bold.ttf);
+}
+h2{
+    font-size:30px;
+    font-family: hihi;
+    position:absolute;
+    left:25px;
+    top:37%;
+    font-size:150px;
+    letter-spacing: 5px;
+}
+
+@font-face {
+    font-family: p;
+    src: url(./Poppins-Light.ttf);
+}
+h3{
+    font-family:p;
+    position:absolute;
+    top:60%;
+    left:50px;
+    line-height:1.7;
+    font-weight:300;
+}
+
+img{
+
+    position:absolute;
+    left:17%;
+    top:60%;
+    transform: translate(-50%,-50%);
+    width:750px;
+}
+
+/*.img1{
+    position: absolute;
+    top:10%;
+    height:100px;
+    width:100px;
+    left:330px;
+}*/
+
+.img1 img{
+    object-fit: cover;
+    height:90px;
+    width:155px;
+    top:70px;
+    left:155px;
+    margin-top:25px;
+
+}
+
+.img1{
+    padding:20px;
+}
+
+
+.img2 img{
+    top:106%;
+    height:200px;
+    width:200px;
+    margin-top:0.5px;
+}
+
+.img2{
+    padding:20px;
+}
+
+/*.img3{
+height:100px;
+width:100px;
+}*/
+
+.img3 img{
+    position:absolute;
+    top:50px;
+    left:95%;
+    height:40px;
+    width:40px;
+    margin-top: 20px;
+}
+
+
+.img4 img{
+position:absolute;
+top:50%;
+height:20px;
+width:20px;
+}
+
+.img5 img{
+    top:54%;
+    height:15px;
+    width:15px;
+}
+
+.img6 img{
+    top:57%;
+    height:15px;
+    width:15px;
+}
+
+.img7 img{
+    top:60%;
+    height:15px;
+    width:15px;
+}
+
+#img8 img{
+    top:63%;
+    height:15px;
+    width:15px;
+}
+
+#num{
+    top:78%;
+    font-family:poppins;
+}
+
+.img4:hover{
+cursor: pointer;
+}
+ 
+.img3:hover{
+    cursor:pointer;
+}
+
+#div2 {
+  transition: all 0.3s ease-in-out;
+}
