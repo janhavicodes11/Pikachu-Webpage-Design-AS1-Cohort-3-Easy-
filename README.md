@@ -1,5 +1,7 @@
 #  Pikachu UI Clone : My First Webpage
 
+[View Live Project](https://guileless-khapse-d815d0.netlify.app/)
+
 This is my **first ever webpage project** built using **HTML & CSS**.  
 For this assignment, I recreated a **Pikachu-inspired UI design** using mainly:
 
