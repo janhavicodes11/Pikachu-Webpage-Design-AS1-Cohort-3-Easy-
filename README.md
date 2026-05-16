@@ -12,9 +12,8 @@ The main goal of this task was to understand how real UI layouts are structured 
 
 # Original Design vs My Recreation
 
-| Original Design | My Recreation |
-| ![Original Design]<img width="1646" height="881" alt="Screenshot 2026-05-14 222430" src="https://github.com/user-attachments/assets/4b0c1b3f-a587-4959-ac5d-b0d446ad1696" />
-| ![My Project] <img width="1858" height="1031" alt="Screenshot 2026-05-16 221253" src="https://github.com/user-attachments/assets/169d9d15-c67a-4d6c-bedb-7f71f8942e8b" />
+| Original Design<img width="1646" height="881" alt="Screenshot 2026-05-14 222430" src="https://github.com/user-attachments/assets/4b0c1b3f-a587-4959-ac5d-b0d446ad1696" />
+|My Project <img width="1858" height="1031" alt="Screenshot 2026-05-16 221253" src="https://github.com/user-attachments/assets/169d9d15-c67a-4d6c-bedb-7f71f8942e8b" />
 
 ---
 
